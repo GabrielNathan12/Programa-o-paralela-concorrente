@@ -35,11 +35,4 @@ Usar semáforos para controlar a concorrência e a sincronização entre as thre
 A solução não deve permitir que clientes furem essa fila. O garçom só pode ir para a copa quando tiver recebido seus C pedidos.  
 O programa deve mostrar a evolução, portanto planeje bem o que será apresentado. Deve ficar claro o que está acontecendo 
 no bar a cada rodada. Os pedidos dos clientes, os atendimentos pelos garçons, os deslocamentos para o pedido, a garantia de ordem de atendimento, etc. 
-Poderá ser utilizada qualquer linguagem de programação que possua suporte para uso de threads.
-Equipe: máximo 2 pessoas.
-O trabalho deverá ser submetido como um arquivo compactado, contendo o código fonte comentado e um vídeo de no máximo 5 minutos explicando como o problema foi resolvido. 
-O arquivo deverá conter o nome e um sobrenome de cada aluno ("NomeSobrenome.zip") da equipe. Somente um componente da equipe deverá submeter o trabalho.
-Trabalhos  que não compilam receberão nota ZERO, bem como trabalhos que sejam considerados como plágio. Deve ser adicionado no zip um arquivo README para explicar qual 
-problema está sendo resolvido, qual o algoritmo escolhido e  como funciona a compilação e a execução do programa implementado.
-Exemplos de ferramentas para gravar vídeo: extensões do Chrome (Loom, Screencastify), CAMTASIA STUDIO, Movie Maker, OBS, etc.
-A avaliação será realizada  da seguinte forma: 60% para código implementado  e 40% para vídeo de apresentação.
+
